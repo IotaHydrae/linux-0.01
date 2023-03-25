@@ -1,5 +1,13 @@
 linux-0.01 On Ubuntu 18.04/20.04 compilable with GCC
 
+requirements:
+```shell
+$ sudo apt install bin86 gcc-multilib -y
+```
+also do
+```shell
+unzip hd_oldlinux.img.zip
+```
 
 Revised version of the first kernel that can be compiled with GCC on machines with Ubuntu 18.04/20.04 64 and 32 bit versions on Intel/AMD. 
 

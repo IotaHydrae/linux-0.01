@@ -1,1 +1,9 @@
 *.o
+Image
+hd_oldlinux.img
+System.map
+boot/boot
+lib/lib.a
+tools/build
+tools/system
+tools/system.bin
