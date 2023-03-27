@@ -2,7 +2,7 @@ linux-0.01 On Ubuntu 18.04/20.04 compilable with GCC
 
 requirements:
 ```shell
-$ sudo apt install bin86 gcc-multilib -y
+$ sudo apt install bin86 gcc-multilib qemu-system -y
 ```
 also do
 ```shell
